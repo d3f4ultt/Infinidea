@@ -68,6 +68,6 @@ If you found this project interesting or useful, create accounts with my Officia
 - [TrendSpider - 25% off discount with my code "DT25"](https://trendspider.com/?_go=d3f4ult)
 
 # Profiles
-<a href="https://twitter.com/ApolloAlgo"><img src="https://i.pinimg.com/originals/aa/3d/75/aa3d750ddec109594ac7c89cb8cbabab.jpg" width="100" height="100"></a>
+<a href="https://twitter.com/_d3f4ult"><img src="https://i.pinimg.com/originals/aa/3d/75/aa3d750ddec109594ac7c89cb8cbabab.jpg" width="100" height="100"></a>
 <a href="https://discord.gg/ApolloAlgo"><img src="https://i.pinimg.com/originals/b6/fe/4a/b6fe4a830e0263d8344b63e3dbcf3033.jpg" width="100" height="100"></a>
 <a href="https://youtube.com/ApolloAlgo"><img src="https://i.pinimg.com/originals/f4/14/b8/f414b816ef11df2c1eaae61f2fc8c489.jpg" width="100" height="100"></a>
