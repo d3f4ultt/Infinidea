@@ -65,7 +65,7 @@ If you found this project interesting or useful, create accounts with my Officia
 - [UnusualWhales - 5% off](http://unusualwhales.com/referral#d3f4ult)
 - [FundedEngineer](https://dashboard.fundedengineer.com/evaluation?affiliateid=d3f4ult)
 - [TraderSync - 15% off](https://www.tradersync.com/?ref=d3f4ulttrades)
-- [TrendSpider - 25% off discount with my code "DT25"] (https://trendspider.com/?_go=d3f4ult)
+- [TrendSpider - 25% off discount with my code "DT25"](https://trendspider.com/?_go=d3f4ult)
 
 # Profiles
 <a href="https://twitter.com/ApolloAlgo"><img src="https://i.pinimg.com/originals/aa/3d/75/aa3d750ddec109594ac7c89cb8cbabab.jpg" width="100" height="100"></a>
